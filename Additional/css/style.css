@@ -1,0 +1,165 @@
+
+
+
+
+#w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da5a-dcc6da57 {
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+    -ms-grid-column: span 2;
+    grid-column-start: span 2;
+    -ms-grid-column-span: 2;
+    grid-column-end: span 2
+  }
+
+  #w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da5e-dcc6da57 {
+    -ms-grid-column-span: 1;
+    grid-column-end: 4;
+    -ms-grid-column: 3;
+    grid-column-start: 3;
+    -ms-grid-row-span: 1;
+    grid-row-end: 2;
+    -ms-grid-row: 1;
+    grid-row-start: 1
+  }
+
+  #w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da69-dcc6da57 {
+    -ms-grid-column-span: 1;
+    grid-column-end: 5;
+    -ms-grid-column: 4;
+    grid-column-start: 4;
+    -ms-grid-row-span: 1;
+    grid-row-end: 2;
+    -ms-grid-row: 1;
+    grid-row-start: 1
+  }
+
+  #w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da72-dcc6da57 {
+    -ms-grid-column-span: 1;
+    grid-column-end: 6;
+    -ms-grid-column: 5;
+    grid-column-start: 5;
+    -ms-grid-row-span: 1;
+    grid-row-end: 2;
+    -ms-grid-row: 1;
+    grid-row-start: 1
+  }
+
+  @media screen and (max-width:991px) {
+    #w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da5a-dcc6da57 {
+      -ms-grid-row: span 1;
+      grid-row-start: span 1;
+      -ms-grid-row-span: 1;
+      grid-row-end: span 1;
+      -ms-grid-column: span 2;
+      grid-column-start: span 2;
+      -ms-grid-column-span: 2;
+      grid-column-end: span 2
+    }
+
+    #w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da72-dcc6da57 {
+      -ms-grid-column-span: 1;
+      grid-column-end: 6;
+      -ms-grid-column: 5;
+      grid-column-start: 5;
+      -ms-grid-row-span: 1;
+      grid-row-end: 2;
+      -ms-grid-row: 1;
+      grid-row-start: 1
+    }
+  }
+
+  @media screen and (max-width:767px) {
+    #w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da5a-dcc6da57 {
+      -ms-grid-row: span 1;
+      grid-row-start: span 1;
+      -ms-grid-row-span: 1;
+      grid-row-end: span 1;
+      -ms-grid-column: span 3;
+      grid-column-start: span 3;
+      -ms-grid-column-span: 3;
+      grid-column-end: span 3
+    }
+
+    #w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da5e-dcc6da57 {
+      -ms-grid-column: 1;
+      grid-column-start: 1;
+      -ms-grid-column-span: 1;
+      grid-column-end: 2;
+      -ms-grid-row: 2;
+      grid-row-start: 2;
+      -ms-grid-row-span: 1;
+      grid-row-end: 3
+    }
+
+    #w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da69-dcc6da57 {
+      -ms-grid-column: 2;
+      grid-column-start: 2;
+      -ms-grid-column-span: 1;
+      grid-column-end: 3;
+      -ms-grid-row: 2;
+      grid-row-start: 2;
+      -ms-grid-row-span: 1;
+      grid-row-end: 3
+    }
+
+    #w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da72-dcc6da57 {
+      -ms-grid-column: 3;
+      grid-column-start: 3;
+      -ms-grid-column-span: 1;
+      grid-column-end: 4;
+      -ms-grid-row: 2;
+      grid-row-start: 2;
+      -ms-grid-row-span: 1;
+      grid-row-end: 3
+    }
+  }
+
+  @media screen and (max-width:479px) {
+    #w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da5a-dcc6da57 {
+      -ms-grid-row: span 1;
+      grid-row-start: span 1;
+      -ms-grid-row-span: 1;
+      grid-row-end: span 1;
+      -ms-grid-column: span 3;
+      grid-column-start: span 3;
+      -ms-grid-column-span: 3;
+      grid-column-end: span 3
+    }
+
+    #w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da5e-dcc6da57 {
+      -ms-grid-column-span: 3;
+      grid-column-end: 4;
+      -ms-grid-column: 1;
+      grid-column-start: 1;
+      -ms-grid-row-span: 1;
+      grid-row-end: 3;
+      -ms-grid-row: 2;
+      grid-row-start: 2
+    }
+
+    #w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da69-dcc6da57 {
+      -ms-grid-column: 1;
+      grid-column-start: 1;
+      -ms-grid-column-span: 3;
+      grid-column-end: 4;
+      -ms-grid-row: 3;
+      grid-row-start: 3;
+      -ms-grid-row-span: 1;
+      grid-row-end: 4
+    }
+
+    #w-node-_67f7db32-28d2-9f37-8b84-a159dcc6da72-dcc6da57 {
+      -ms-grid-column: 1;
+      grid-column-start: 1;
+      -ms-grid-column-span: 3;
+      grid-column-end: 4;
+      -ms-grid-row: 4;
+      grid-row-start: 4;
+      -ms-grid-row-span: 1;
+      grid-row-end: 5
+    }
+  }
+
+  
