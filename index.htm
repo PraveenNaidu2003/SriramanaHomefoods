@@ -20,7 +20,7 @@
     <link href="Additional/logo_webclip.png" rel="apple-touch-icon">
     <link rel="stylesheet" href="Additional/css/import.css">
 </head>
-
+<script>alert("Do You want To Relode This Site")</script>
 <body style="background-color: pink; color: red;">
     <div id="Banner" class="banner">
         <div class="banner-wrap">
@@ -197,7 +197,7 @@
         <div class="container">
             <div class="w-layout-grid content-grid">
                 <div class="content-block bg-text">
-                    <h2>
+                    <h2 class="change">
                         FSA LAB
                         <br>
                         WEB Creating
@@ -210,8 +210,11 @@
                         <br>
                         We learned this Stack 
                     </p>
-                    <a href="company.html" class="button button-space
-                            w-button">Learn about us</a>
+                    <button id="changes"><a href="company.html" class="button button-space
+                            w-button">Learn about us</a></button>
+                            <script>
+                                document.body.getElementsByClassName='change'
+                            </script>
                 </div>
                 <div class="image-block">
                     <img src="Additional/shop.png" srcset="Additional/shop-p-500.png
